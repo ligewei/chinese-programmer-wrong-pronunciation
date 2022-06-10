@@ -24,6 +24,7 @@
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
+| canal | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=1) /kəˈnæl/ | [🔊](https://dict.youdao.com/dictvoice?audio=canal&type=2) /kəˈnæl/ | ❌ /ˈkænl/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
 | clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
 | Coq | [🔊](https://upload.wikimedia.org/wikipedia/commons/4/47/Fr-coq.ogg) IPA French ['kɔkʲ] 读若拼音“goq” | | ❌ IPA English ['kʰɒk] |
@@ -71,6 +72,7 @@
 | Linux | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=1)  /'lɪnəks/ | [🔊](https://dict.youdao.com/dictvoice?audio=linux&type=2)  /ˈlaɪnəks/ /ˈlɪnəks/ |  ❌ /ˈlɪnʌks/ /ˈlɪnjuːks/ |
 | locale | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=1)  /ləʊ'kɑːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=locale&type=2)  /loʊˈkæl/ |  ❌ /ˈloʊk(ə)l/ |
 | Lucene | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=1)  /lu'siːn/ | [🔊](https://dict.youdao.com/dictvoice?audio=lucene&type=2)  /lu'siːn/ |  ❌ /'lu:sən/ |
+| macro | [🔊](https://dict.youdao.com/dictvoice?audio=macro&type=1)  /ˈmækrəʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=macro&type=2)  /ˈmækroʊ/ | ❌ /ˈmakroʊ/                |
 | main | [🔊](https://dict.youdao.com/dictvoice?audio=main&type=1)  /meɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=main&type=2)  /meɪn/ |  ❌ /mɪn/ |
 | margin | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=1)  /'mɑːdʒɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=margin&type=2)  /ˈmɑːrdʒɪn/ |  ❌ /'mʌgɪn/ |
 | matrix | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=1)  /ˈmeɪtrɪks/ | [🔊](https://dict.youdao.com/dictvoice?audio=matrix&type=2)  /ˈmeɪtrɪks/ |  ❌ /ˈmɑ:trɪks/ |
@@ -127,12 +129,14 @@
 1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
 1. 简洁的单词列表，正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
 1. 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
-2. 单词连读 https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
+1. 单词连读 https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
+1. [iOS app](https://apps.apple.com/cn/app/%E7%8C%BF%E5%8D%95%E8%AF%8D-%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B9%E6%98%93%E5%8F%91%E9%9F%B3%E9%94%99%E8%AF%AF%E7%9A%84%E5%8D%95%E8%AF%8D/id1626487291) (by @Chang12)
 
 
 ### 说明
 1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
 1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
+1. 无页面跳转收听正确读音请安装我们的 [chromium 扩展](tools/chromium_extension/README.md)
 
 ### 参考资料
 1. https://www.zhihu.com/question/19739907
@@ -141,3 +145,7 @@
 4. https://www.v2ex.com/t/63781
 5. https://www.v2ex.com/t/246033
 6. https://www.v2ex.com/t/342087
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shimohq/chinese-programmer-wrong-pronunciation&type=Date)](https://star-history.com/#shimohq/chinese-programmer-wrong-pronunciation&Date)
