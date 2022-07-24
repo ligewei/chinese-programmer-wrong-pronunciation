@@ -1,5 +1,14 @@
-### Words Commonly Mispronounced by Chinese Programmers
-### 中国程序员容易发音错误的单词(点击🔊收听正确读音)
+## Words Commonly Mispronounced by Chinese Programmers
+## 中国程序员容易发音错误的单词(点击🔊收听正确读音)
+
+### 重要更新
+
+- chromium扩展：无页面跳转，实时检索英语发音
+  -  安装 [chromium 扩展](tools/chromium_extension/README.md) 或者
+  - [外部独立库](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation-chromium-extension.git)
+- 简洁的单词列表，正确读音不用再打开新网页：https://cpwp.netlify.app/
+- [iOS应用](https://apps.apple.com/cn/app/%E7%8C%BF%E5%8D%95%E8%AF%8D-%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B9%E6%98%93%E5%8F%91%E9%9F%B3%E9%94%99%E8%AF%AF%E7%9A%84%E5%8D%95%E8%AF%8D/id1626487291)
+
 
 | 单词 | 正确发音（英音）| 正确发音（美音）| 错误发音 |
 | --- | ----------- | ----------- | ---------- |
@@ -13,6 +22,7 @@
 | Angular | [🔊](https://dict.youdao.com/dictvoice?audio=Angular&type=1)  /'æŋgjʊlə/ | [🔊](https://dict.youdao.com/dictvoice?audio=Angular&type=2)  /ˈæŋɡjələr/ |  ❌ /'æŋɡələ/ /'æŋdʒʌlə/ |
 | AJAX | [🔊](https://dict.youdao.com/dictvoice?audio=AJAX&type=1)  /'eidʒæks/ | [🔊](https://dict.youdao.com/dictvoice?audio=AJAX&type=2)  /'eidʒæks/ |  ❌ /ə'dʒʌks/ |
 | alias | [🔊](https://dict.youdao.com/dictvoice?audio=alias&type=1)  /ˈeɪliəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=alias&type=2)  /ˈeɪliəs/ |  ❌ /ə'lais/ |
+| align | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=1)  /əˈlaɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=align&type=2)  /əˈlaɪn/ |  ❌ /ə'lidʒen/ |
 | Apache | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=1)  /ə'pætʃɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=2)  /əˈpætʃi/ |  ❌ /ʌpʌtʃ/ |
 | app | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=1)  /æp/ | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=2)  /æp/ |  ❌ /eipi'pi/ |
 | archive | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=1)  /'ɑːkaɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=2)  /'ɑːkaɪv/ |  ❌ /'ətʃɪv/ |
@@ -39,7 +49,7 @@
 | doc | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
 | dotnet | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=1)  /dɒtnet/ | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=2)  /dɑːtnet/ |  ❌ /daʊtnet/ |
 | edition | [🔊](https://dict.youdao.com/dictvoice?audio=edition&type=1)  /ɪˈdɪʃ(ə)n/ | [🔊](https://dict.youdao.com/dictvoice?audio=edition&type=2)  /ɪˈdɪʃn/ |  ❌ /eˈdɪʃn/ |
-| ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /[ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /[ɪˈfemərəl] / |  ❌ /daʊtnet/ |
+| ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /ɪˈfemərəl/ |  ❌ /daʊtnet/ |
 | epoch  | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=1)  /ˈiːpɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=2)  /ˈepək/ |  ❌ /'ɛpətʃ/ |
 | execute | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
 | executor | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
@@ -50,7 +60,7 @@
 | format | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
 | gauge | [🔊](https://dict.youdao.com/dictvoice?audio=gauge&type=1) /ɡeɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=gauge&type=2) /ɡeɪdʒ/ |  ❌ /ɡɑudʒ/ |
 | Git | [🔊](https://dict.youdao.com/dictvoice?audio=git&type=1)  /ɡɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=git&type=2)  /ɡɪt/ |  ❌ /dʒɪt/ |
-| GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /nuː,njuː/ |  |
+| GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnuː,gnjuː/ |  |
 | Grafana | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3)   /grəˈfɑːnˌɑː/ | [🔊](http://www.howtopronounce.cc/file/e204a97ed1e440c5ab15ea0117beb955.mp3 )   /grəˈfɑːnˌɑː/ |  |
 | GraphQL | [🔊](https://dict.youdao.com/dictvoice?audio=GraphQL&type=1)  /græf kju ɛl/ | [🔊](https://dict.youdao.com/dictvoice?audio=GraphQL&type=2)  /græf kju ɛl/ |  ❌ /dʒɪgræf kju ɛl/ |
 | GUI | [🔊](https://dict.youdao.com/dictvoice?audio={GUI}&type=1)  /ˈɡu:i/ | [🔊](https://dict.youdao.com/dictvoice?audio={GUI}&type=2)  /ˈɡu:i/ |  |
@@ -121,22 +131,24 @@
 | vue | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=1)  /v'ju:/ | [🔊](https://dict.youdao.com/dictvoice?audio=vue&type=2)  /v'ju:/ |  ❌ /v'ju:i/ |
 | width | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=1)  /wɪdθ/ | [🔊](https://dict.youdao.com/dictvoice?audio=width&type=2)  /wɪdθ,wɪtθ/ |  ❌ /waɪdθ/ |
 | YouTube | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=1)  /'juː'tjuːb/ | [🔊](https://dict.youdao.com/dictvoice?audio=youtube&type=2)  /'juː'tjuːb/ |  ❌ /'juː'tʊbɪ/ |
+| Vite | [🔊](https://dict.youdao.com/dictvoice?audio=vite&type=1)  /vit/ | [🔊](https://dict.youdao.com/dictvoice?audio=vite&type=2)  /vit/ |  ❌ /vaɪt/ |
 
 ### 附注
+*  无页面跳转，页面嵌入搜索引擎和实时检索英语发音，请安装[chromium 扩展](tools/chromium_extension/README.md)
+    * [chromium 扩展新增功能截图](tools/chromium_extension/images/README.md)
 * 当使用简名 ‘Kube’ 称呼 ‘Kubernetes’ 时, 发音则与 ‘cube’(/kjuːb/) 一致
 
-### 其他相关链接
-1. 真人发音 https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
-1. 简洁的单词列表，正确读音不用再打开新网页 https://cpwp.netlify.app/ (by @antfu7)
-1. 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
-1. 单词连读 https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
-1. [iOS app](https://apps.apple.com/cn/app/%E7%8C%BF%E5%8D%95%E8%AF%8D-%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B9%E6%98%93%E5%8F%91%E9%9F%B3%E9%94%99%E8%AF%AF%E7%9A%84%E5%8D%95%E8%AF%8D/id1626487291) (by @Chang12)
-
+### 相关链接
+* 真人发音：https://www.bilibili.com/video/bv1nv411i7z3 (by @hailintao)
+* 简洁的单词列表，正确读音不用再打开新网页：https://cpwp.netlify.app/ (by @antfu7)
+* 国际音标严式记音（纽约音）https://github.com/b1f6c1c4/programming-pronunciations-en_US (by @b1f6c1c4)
+* 单词连读：https://corrector.justsong.cn/ (by [@songquanpeng](https://github.com/songquanpeng/pronunciation-corrector))
+* [iOS app](https://apps.apple.com/cn/app/%E7%8C%BF%E5%8D%95%E8%AF%8D-%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B9%E6%98%93%E5%8F%91%E9%9F%B3%E9%94%99%E8%AF%AF%E7%9A%84%E5%8D%95%E8%AF%8D/id1626487291) (by @Chang12)
+* [chromium系浏览器扩展，无页面跳转，实时检索英语发音](https://github.com/jingjingxyk/chinese-programmer-wrong-pronunciation-chromium-extension.git) (by @jingjingxyk)
 
 ### 说明
-1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性
-1. 专业在线英语词典请参考[知乎链接:在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
-1. 无页面跳转收听正确读音请安装我们的 [chromium 扩展](tools/chromium_extension/README.md)
+1. 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式DJ音标，不代表其唯一性
+1. 专业在线英语词典请参考: [在线英语词典哪个比较好?](https://www.zhihu.com/question/19707759)
 
 ### 参考资料
 1. https://www.zhihu.com/question/19739907
